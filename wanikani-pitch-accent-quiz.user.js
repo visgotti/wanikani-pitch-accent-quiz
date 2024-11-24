@@ -5,6 +5,7 @@
 // @version       0.0.2
 // @author        Lynn/Visgotti
 // @require https://code.jquery.com/jquery-3.6.0.min.js
+// @require      https://greasyfork.org/scripts/430565-wanikani-item-info-injector/code/WaniKani%20Item%20Info%20Injector.user.js?version=1416982
 // @include       *://www.wanikani.com/subjects/review*
 // @include       *://www.wanikani.com/subject-lessons
 // @match        https://www.wanikani.com/subjects/review*
